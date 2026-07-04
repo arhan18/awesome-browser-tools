@@ -58,6 +58,7 @@ Modern browsers with WebAssembly, Canvas, and Web Workers can handle tasks that 
 | [Squoosh](https://squoosh.app/) | Google's image compression web app. |
 | [Photopea](https://www.photopea.com/) | Advanced browser-based image editor (Photoshop alternative). |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/) | SVG optimizer with a web GUI. |
+| [ToolBox Image](https://toolboximage.com) | 8 browser-based image tools — compress, convert, resize, crop, rotate, watermark, passport photos, metadata viewer. Zero uploads, no sign-up. |
 
 ## Video Tools
 
